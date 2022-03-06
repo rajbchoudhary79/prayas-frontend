@@ -1,15 +1,16 @@
 {
-  "files": {
-    "main.css": "/prayas-frontend/static/css/main.073c9b0a.css",
-    "main.js": "/prayas-frontend/static/js/main.b208f6f2.js",
-    "static/js/787.cda612ba.chunk.js": "/prayas-frontend/static/js/787.cda612ba.chunk.js",
-    "index.html": "/prayas-frontend/index.html",
-    "main.073c9b0a.css.map": "/prayas-frontend/static/css/main.073c9b0a.css.map",
-    "main.b208f6f2.js.map": "/prayas-frontend/static/js/main.b208f6f2.js.map",
-    "787.cda612ba.chunk.js.map": "/prayas-frontend/static/js/787.cda612ba.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b208f6f2.js"
-  ]
+  "main.css": "/prayas-frontend/static/css/main.c3972d08.chunk.css",
+  "main.js": "/prayas-frontend/static/js/main.94bbe322.chunk.js",
+  "main.js.map": "/prayas-frontend/static/js/main.94bbe322.chunk.js.map",
+  "static/js/1.db20f86d.chunk.js": "/prayas-frontend/static/js/1.db20f86d.chunk.js",
+  "static/js/1.db20f86d.chunk.js.map": "/prayas-frontend/static/js/1.db20f86d.chunk.js.map",
+  "static/js/2.b75323fd.chunk.js": "/prayas-frontend/static/js/2.b75323fd.chunk.js",
+  "static/js/2.b75323fd.chunk.js.map": "/prayas-frontend/static/js/2.b75323fd.chunk.js.map",
+  "runtime~main.js": "/prayas-frontend/static/js/runtime~main.1814974f.js",
+  "runtime~main.js.map": "/prayas-frontend/static/js/runtime~main.1814974f.js.map",
+  "static/media/icon.png": "/prayas-frontend/static/media/icon.f6fa8e64.png",
+  "static/css/main.c3972d08.chunk.css.map": "/prayas-frontend/static/css/main.c3972d08.chunk.css.map",
+  "index.html": "/prayas-frontend/index.html",
+  "precache-manifest.eb478cf2bb11aa721ffd956fed59860b.js": "/prayas-frontend/precache-manifest.eb478cf2bb11aa721ffd956fed59860b.js",
+  "service-worker.js": "/prayas-frontend/service-worker.js"
 }
